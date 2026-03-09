@@ -143,13 +143,9 @@ void IRPAIR()
 	HAL_Delay(1000);
 }
 ```
-
 ## OUTPUT
 ![exp2apic](https://github.com/user-attachments/assets/d716baa6-3c1b-4d32-a588-aa3d9945faca)
-
 ![EXP2bpic](https://github.com/user-attachments/assets/9af596f8-20b6-480b-83b9-cfd13dafe75e)
-
-
 ## Result
 
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
